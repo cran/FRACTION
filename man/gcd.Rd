@@ -20,7 +20,7 @@ b is greater than 0 while b is whole number
 }
 }
 \details{
-Ues Euclidean algorithm 
+Ues Euclidean algorithm
 }
 \value{
 the greatest common divisor between a and b
@@ -39,4 +39,3 @@ b=32
 c=gcd(a,b)
 }
 \keyword{ greatest common divisor }
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

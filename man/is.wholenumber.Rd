@@ -4,7 +4,7 @@
 \title{
 To judge the number is whole number or not}
 \description{
-To judge the number is whole number or not 
+To judge the number is whole number or not
 }
 \usage{
 is.wholenumber(x, tol = .Machine$double.eps^0.5)
@@ -33,4 +33,3 @@ r=8
 is.wholenumber(r)
 }
 \keyword{is.}
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

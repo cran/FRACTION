@@ -1,6 +1,6 @@
 is.wholenumber <-
     function(x, tol = .Machine$double.eps^0.5)  abs(x - round(x)) < tol
-gcd <- function(a,b) ifelse (b==0, a, gcd(b, a %% b))  ##判断b==0?，是的话就返回a，不是的话返回gcd(b, a %% b)
+gcd <- function(a,b) ifelse (b==0, a, gcd(b, a %% b))  
 fra<-function(x,j=7){
 i=0
 y=seq(j)
