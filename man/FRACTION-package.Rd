@@ -3,23 +3,23 @@
 \alias{FRACTION}
 \docType{package}
 \title{
-Numeric number into fraction
+Numeric Number into Fraction
 }
 \description{
-This is the package which can help you turn numeric,dataframe,matrix into fraction form.
+Turn numeric,data.frame,matrix into fraction form.
 }
 \details{
 \tabular{ll}{
 Package: \tab FRACTION\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2012-05-13\cr
+Version: \tab 1.1.1\cr
+Date: \tab 2023-08-21\cr
 License: \tab licenseInfo \cr
 }
 }
 \author{
 OuYang Ming
-Maintainer: OuYang Ming <oula2004@163.com> 
+Maintainer: OuYang Ming <oula2004@163.com>
 }
 \references{
 Friedrich Leisch, 2008 Creating R packages: A Tutorial
